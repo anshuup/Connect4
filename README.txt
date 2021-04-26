@@ -1,7 +1,6 @@
 ---------------------------
 Project: Connect 4
 Name : Anshu Patel
-ID: 101082781
 ---------------------------
 
 Files/folders included:
