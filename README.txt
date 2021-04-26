@@ -30,14 +30,6 @@ To run Page on localhost:
 -> in cmd use node connect4server.js
 -> type localhost:3000
 
-To run on openstack
- -- Instance Name: AnshuPatel
- -- IP address : 134.117.133.186
- -- username:student
- -- password: connect4Project
- -- folder is located in student directory, named connect4FinalSubmission -> connect4_check_in#3
- -- Then connect on localhost:9999 using ssh -L 9999:localhost:3000 student@134.117.133.186. And once connected navigate your browser to localhost:9999
-
 To Log into the page
  -- Try any of the username and password
  -- username : annasmith
