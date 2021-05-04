@@ -1,1 +1,1 @@
-web: node ./connect4server.js
+web: node connect4server.js
